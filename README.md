@@ -2,8 +2,9 @@
 The Scientific Calculator has been built using Javascript.
 
 ```
-Give the example
+ - Link to my Calculator
+	  - **[Scientific Calculator](http://janitor-mole-52543.bitballoon.com/)**
+	  
 ```
 
- - My PortFolio
-	  - **[Non-Responsive PortFolio](http://optimistic-heisenberg-446408.bitballoon.com/)**
+
